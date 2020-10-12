@@ -1,0 +1,16 @@
+.dropdown-login {
+    background-color: #eee !important;
+    min-width: 280px !important;
+    border-top: solid 4px #28364f !important;
+    border-bottom: solid 4px #28364f !important;
+    padding: 20px;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #28364f;
+}
+
+.input-group-addon {
+    border-radius: 0;
+}
