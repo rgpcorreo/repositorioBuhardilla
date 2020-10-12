@@ -1,2 +1,2 @@
 # repositorioBuhardilla
- Repositorio eplazado ordenador casa
+ Repositorio emplazado ordenador casa
